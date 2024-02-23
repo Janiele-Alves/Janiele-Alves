@@ -2,7 +2,7 @@
 
    <div>
        <a href="https://github.com/Janiele-Alves">
-        <img src="https://github-readme-stats.vercel.app/api?username=Janiele-Alves&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px; width: 500px; height:250px;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Janiele-Alves&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px; width: 400px; height:250px;" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janiele-Alves&langs_count=8&theme=radical&layout=compact" alt="Top Langs" style="border-radius: 10px;  height:250px;" />
           </a>
     </div>
