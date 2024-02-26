@@ -17,8 +17,6 @@
    </div>
    
 
-![snake gif](https://github.com/Janiele-Alves/Janiele-Alves/blob/main/github-contribution-grid-snake.svg)
-
 <!--
 **Janiele-Alves/Janiele-Alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
